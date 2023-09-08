@@ -3,8 +3,13 @@
 ## Contents
 ### `<nav>`
 ![image](https://github.com/Karan9927/CSS/assets/115612744/486eaf36-5c0c-4c5d-adec-a0cfcf1fc8d8)
+![image](https://github.com/Karan9927/CSS/assets/115612744/5f832095-56da-43ca-b1cf-58623674f96e)
+![image](https://github.com/Karan9927/CSS/assets/115612744/eba1976d-aedc-43a4-b26f-67457855bf73)
+
 
 The `<nav>` element represents a navigation section.
+
+![image](https://github.com/Karan9927/CSS/assets/115612744/976cd535-f6b5-4a7d-a843-87df4b9cdfce)
 
 - `<input type="text" value="Search" />`: This `<input>` element is used for a search input field with the initial value "Search."
 
@@ -19,10 +24,15 @@ The `<div>` elements are used for structuring the content within the webpage.
 ![image](https://github.com/Karan9927/CSS/assets/115612744/4efcaa2f-cfc6-4055-8a5d-4b2e916abd94)
 
 The `<div class="coffee">` element appears to represent a section about different types of coffee.
+![image](https://github.com/Karan9927/CSS/assets/115612744/a18349e8-73f5-431c-b412-11506c8a3d89)
+![image](https://github.com/Karan9927/CSS/assets/115612744/2c506d11-5a71-49bc-99a3-0499c86bfb2c)
 
 - `<div class="img">`: These `<div>` elements contain `<img>` tags for displaying images of coffee types.
+![image](https://github.com/Karan9927/CSS/assets/115612744/77f76469-7240-4956-b192-4c8b380ccbbe)
 
 - `<h4>`: These `<h4>` tags contain the names of different coffee types.
+- 
+![image](https://github.com/Karan9927/CSS/assets/115612744/6f7dbabf-c9c8-4c17-b4d5-8c5702a7a4d2)
 
 #### `<div class="description">`
 ![image](https://github.com/Karan9927/CSS/assets/115612744/0312caa8-5627-4871-8351-b002877f3017)
@@ -32,6 +42,9 @@ The `<div class="coffee">` element appears to represent a section about differen
 ![image](https://github.com/Karan9927/CSS/assets/115612744/b90214f2-2cfc-4dfa-b6f3-bb3900e8dadc)
 
 The `<div class="description">` element represents a description section.
+
+![image](https://github.com/Karan9927/CSS/assets/115612744/6706b69c-346b-4927-a38c-48185c4251e7)
+![image](https://github.com/Karan9927/CSS/assets/115612744/e57c214a-5f80-4069-b41d-d3a1990449b6)
 
 - `<h1 style="color: brown">Coffee-House</h1>`: This `<h1>` tag represents a top-level heading with the text "Coffee-House" and brown color.
 

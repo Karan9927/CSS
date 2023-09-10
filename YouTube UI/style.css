@@ -98,6 +98,7 @@ hr {
 .card {
   width: 310px;
   margin-bottom: 30px;
+  border: none;
 }
 .channel_image {
   width: 40px;

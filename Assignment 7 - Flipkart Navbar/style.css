@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+.main {
+  background-color: #3e72e7;
+  padding: 12px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.explore,
+.plus {
+  color: white;
+  margin-right: 4px;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 12px;
+}
+.plus {
+  color: #ffc200;
+}
+.flipkart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: fit-content;
+  padding: 0 20px;
+}
+.flipkart p {
+  text-align: center;
+}
+input {
+  height: 40px;
+  color: gray;
+  font-weight: 500;
+  width: 512px;
+  border-style: none;
+  border-radius: 2px 0 0 2px;
+  padding: 15px;
+}
+.searchbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+}
+.search {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 2px 2px 0;
+  height: 40px;
+  padding: 0 20px;
+}
+button {
+  height: 34px;
+  color: #3e72e7;
+  background-color: white;
+  width: 132px;
+  border-style: none;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 2px;
+  margin: 0 20px;
+}
+.dropd {
+  padding: 0 20px;
+}
+#seller {
+  color: white;
+  padding: 0 10px;
+}
+#More {
+  background-color: #3e72e7;
+  border-style: none;
+  color: white;
+  font-size: 16px;
+}
+select {
+  padding-right: 5px;
+}
+.cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 15px;
+  padding: 0 20px;
+}
+.cart p {
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  padding-left: 5px;
+}
+.products {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  align-items: center;
+  font-size: 14px;
+  padding: 16px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card:hover {
+  cursor: pointer;
+  color: #3e72e7;
+}
+.down {
+  fill: gray;
+}
+.card:hover .down {
+  transform: rotate(180deg);
+  transition: 0.5s;
+  fill: #3e72e7;
+  color: #3e72e7;
+}
+.card img {
+  margin: 8px 0;
+  width: 64px;
+  height: 64px;
+}
+.card p {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.arrow {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  gap: 5px;
+}

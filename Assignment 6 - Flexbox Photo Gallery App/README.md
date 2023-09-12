@@ -1,5 +1,5 @@
 ## Hosted Link
-https://karan9927.github.io/CSS/Assignment%206%20-%20Flexbox%20Photo%20Gallery%20App/
+[Link for Flexbox Photo Gallery App](https://karan9927.github.io/CSS/Assignment%206%20-%20Flexbox%20Photo%20Gallery%20App/)
 # Photo Gallery README
 ## HTML Tags Used
 ![image](https://github.com/Karan9927/CSS/assets/115612744/ad1adb74-39a2-4792-abcb-b1e2ea863180)
